@@ -1,0 +1,6 @@
+Hello 
+My name is Kelvin Kipchumba
+I am a passionate front end dev but a future full stack developer
+I am currently learning the backend to be a full stack dev.
+I am also learning DevOps and Cyber security.
+I am also the founder of Novel Crea a design and creative agency.
